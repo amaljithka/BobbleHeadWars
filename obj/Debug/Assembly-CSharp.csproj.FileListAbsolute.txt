@@ -280,3 +280,7 @@ F:\Bobblehead Wars\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
 F:\Bobblehead Wars\obj\Debug\Assembly-CSharp.csproj.CopyComplete
 F:\Bobblehead Wars\obj\Debug\Assembly-CSharp.dll
 F:\Bobblehead Wars\obj\Debug\Assembly-CSharp.pdb
+E:\Bobblehead Wars\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+E:\Bobblehead Wars\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+E:\Bobblehead Wars\obj\Debug\Assembly-CSharp.dll
+E:\Bobblehead Wars\obj\Debug\Assembly-CSharp.pdb
